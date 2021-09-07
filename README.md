@@ -1,4 +1,4 @@
-# VST2-Default-Folder-Manager
+# VST2 Default Folder Manager
 
  Unlike MacOS, Windows has no built in default folder for VST2 plugins. When installing a DAW that supports VST, the DAW generally should create and register VST2 folders for 32-bit and 64-bit plugins. Once registered, plugins should automatically install into these folders and any other audio software (DAWs, notation programs, audio editors) should find the plugins automatically with the default settings.
 
